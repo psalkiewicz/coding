@@ -1,0 +1,64 @@
+GET / HTTP/1.1
+Accept: */*
+Referer: http://www.gohip.com/browser/?pid=AAAAAAAAAAAADG&ence=onod&sid=3CDE70A0F6E911D3BDB00060520AF16F&pnce=onod&hp=www%2epiekna%2epl
+Accept-Language: pl
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 15 Mar 2000 12:50:37 GMT
+If-None-Match: "8011-b08-38cf871d"
+User-Agent: Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Host: www.piekna.pl
+Connection: Keep-Alive
+
+GET /logob.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.piekna.pl/
+Accept-Language: pl
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 09 Mar 2000 18:40:25 GMT
+If-None-Match: "8006-45af-38c7f019"
+User-Agent: Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Host: www.piekna.pl
+Connection: Keep-Alive
+
+GET /b_camera.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.piekna.pl/
+Accept-Language: pl
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 09 Mar 2000 18:40:35 GMT
+If-None-Match: "8009-1dfc-38c7f023"
+User-Agent: Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Host: www.piekna.pl
+Connection: Keep-Alive
+
+GET /b_ceny.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.piekna.pl/
+Accept-Language: pl
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 09 Mar 2000 18:40:35 GMT
+If-None-Match: "800a-1c29-38c7f023"
+User-Agent: Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Host: www.piekna.pl
+Connection: Keep-Alive
+
+GET /b_end.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.piekna.pl/
+Accept-Language: pl
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 09 Mar 2000 18:40:35 GMT
+If-None-Match: "800b-1cfa-38c7f023"
+User-Agent: Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Host: www.piekna.pl
+Connection: Keep-Alive
+
+GET /cgi-bin/Count.cgi?df=piekna.dat&dd=B HTTP/1.1
+Accept: */*
+Referer: http://www.piekna.pl/
+Accept-Language: pl
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+Host: www.piekna.pl
+Connection: Keep-Alive
+

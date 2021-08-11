@@ -1,0 +1,21 @@
+#1 - nick jawny, siedzi na 50 kanalach. vHOST 1
+#2 - nick ? - nigdzie nie siedzi.	vHOST 2
+
+
+1.  #2 co 15 sekund zmienia nicka , co 2 min server, co 1 godz VHOSTa
+2.  #1 siedzi na kanale.
+3.  ktos wlazi na kanal
+	
+	a) czekamy 15 sekund czy nie dostanie opa.
+	b) sprawdzamy w bazie czy w przeciagu 1 godziny nie dostal juz takiego mesga
+	c) sprawdzamy w bazie czy kiedykolwiek nie mial opa
+	d) #2 wysyla mu mesga, jednego z wielu.
+	e) dopisujemy do bazy dane delikwenta ze juz dostal.
+
+*) 4. Statystyki dzienne - ilu dostalo, ilu wogole widzial wchodzacych na kanaly.
+	srednia liczba osob na godzine, wykres liczba wchodzacych(godzina zegarowa)
+
+
+
+*) optional.
+

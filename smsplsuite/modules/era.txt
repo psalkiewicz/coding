@@ -1,0 +1,14 @@
+POST /sms/sendsms.asp HTTP/1.0
+Host: boa.eragsm.com.pl
+Accept: text/html, text/plain, text/sgml, */*;q=0.01
+Accept-Encoding: gzip, compress
+Accept-Language: en
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Lynx/2.8.1rel.2 libwww-FM/2.14
+Referer: http://boa.eragsm.com.pl/sms/sendsms.asp
+Content-type: application/x-www-form-urlencoded
+Content-length: 111
+
+bookopen=&numer=602506524&ksiazka=ksiazka+telefoniczna&message=testteste&podpis=&kontakt=&
+code=3171&Nadaj=Nadaj[root@paput]:~/rootutils/era#
